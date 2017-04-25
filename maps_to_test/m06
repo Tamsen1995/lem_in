@@ -1,0 +1,10 @@
+10
+#comment
+##start
+D 0 0
+##end
+##command
+A 0 0
+#comment
+D-A
+##command

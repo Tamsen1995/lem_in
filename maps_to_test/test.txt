@@ -1,0 +1,28 @@
+100
+#
+#
+#
+##start
+zero 23 3
+2 16 7
+##commentaire
+3 16 3
+4 16 5
+5 9 3
+6 1 5
+7 4 8
+##end
+thick 9 5
+7-6
+thick-4
+thick-6
+zero-3
+4-3
+5-2
+3-5
+##autre commentaire
+4-2
+2-zero
+7-2
+7-4
+6-5
